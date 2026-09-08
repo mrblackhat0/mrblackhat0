@@ -1,8 +1,8 @@
-# Hi, I'm mrblackhatzer0 👋
+# Hi, I'm mrblackhat0 👋
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
 
-I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React Native and Next.js.
+I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React[...]
 
 Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, NativeWind, Drizzle ORM, SQLite, and Supabase**.
 
@@ -13,7 +13,7 @@ Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, 
 ## 🚀 Featured Projects
 
 ### 🔥 RoutineKraft
-A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop).
+A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop)[...]
 
 **Stack:** React Native · Expo · TypeScript · NativeWind · Drizzle ORM · SQLite
 **Repo:** [link here] · **Demo:** [link here]
@@ -32,7 +32,7 @@ A print-on-demand custom apparel platform with an in-browser design editor — f
 **Repo:** [link here] · **Demo:** [link here]
 
 ### 🇳🇵 Karya Nepal
-A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution system. Co-founded and built with a small founding team.
+A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution sy[...]
 
 **Stack:** React · React Native · Supabase
 **Repo:** [link here]
@@ -81,13 +81,13 @@ A trust-first employment and local-services marketplace launching in Birgunj —
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrblackhatzer0&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrblackhat0&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrblackhatzer0&layout=compact&theme=transparent&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrblackhat0&layout=compact&theme=transparent&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mrblackhatzer0&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mrblackhat0&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -97,7 +97,7 @@ A trust-first employment and local-services marketplace launching in Birgunj —
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrblackhatzer0&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=mrblackhat0&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -107,7 +107,7 @@ A trust-first employment and local-services marketplace launching in Birgunj —
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrblackhatzer0&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrblackhat0&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -117,7 +117,7 @@ A trust-first employment and local-services marketplace launching in Birgunj —
 
 📧 **Email:** [rrr143246@gmail.com](mailto:rrr143246@gmail.com)
 
-🐙 **GitHub:** [@mrblackhatzer0](https://github.com/mrblackhatzer0)
+🐙 **GitHub:** [@mrblackhat0](https://github.com/mrblackhat0)
 
 ---
 
