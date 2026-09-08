@@ -1,6 +1,6 @@
 # Hi, I'm mrblackhat0 👋
 
-<div align="center">
+<div align="center" style="width: 200px;height: 200px;border-radius: 50%;">
   <img src="./developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 </div>
 
