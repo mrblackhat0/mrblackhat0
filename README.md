@@ -1,7 +1,7 @@
 # Hi, I'm mrblackhat0 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrblackhat0/mrblackhat0/main/developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+  <img src="./developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 </div>
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
