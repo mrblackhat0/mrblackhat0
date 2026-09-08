@@ -1,8 +1,8 @@
 # Hi, I'm mrblackhat0 👋
 
-<div align="center" style="width: 200px;height: 200px;border-radius: 50%;">
-  <img src="./developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
-</div>
+<p align="center">
+  <img src="./developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%;"/>
+</p>
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
 
@@ -17,7 +17,7 @@ Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, 
 ## 🚀 Featured Projects
 
 ### 🔥 RoutineKraft
-A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop)[...]
+A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/s[...]
 
 **Stack:** React Native · Expo · TypeScript · NativeWind · Drizzle ORM · SQLite
 **Repo:** [link here] · **Demo:** [link here]
@@ -36,7 +36,7 @@ A print-on-demand custom apparel platform with an in-browser design editor — f
 **Repo:** [link here] · **Demo:** [link here]
 
 ### 🇳🇵 Karya Nepal
-A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution sy[...]
+A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolutio[...]
 
 **Stack:** React · React Native · Supabase
 **Repo:** [link here]
