@@ -1,12 +1,12 @@
 # Hi, I'm mrblackhat0 👋
 
 <p align="center">
-  <img src="./developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="./developer.png" alt="mrblackhat0" width="200" height="200"/>
 </p>
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
 
-I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React[...]
+I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React Native and Next.js.
 
 Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, NativeWind, Drizzle ORM, SQLite, and Supabase**.
 
@@ -16,30 +16,28 @@ Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, 
 
 ## 🚀 Featured Projects
 
-### 🔥 RoutineKraft
-A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/s[...]
+### 🔥 RoutineKraft `In Progress`
+A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop).
 
 **Stack:** React Native · Expo · TypeScript · NativeWind · Drizzle ORM · SQLite
-**Repo:** [link here] · **Demo:** [link here]
 
-### ✅ Tasko
+### ✅ Tasko `In Progress`
 A task-management app with a full scaffolded architecture — typed state management, schema-validated data, and file-based routing.
 
 **Stack:** React Native · Expo (SDK 56) · Zustand · Zod · Drizzle ORM · expo-sqlite · NativeWind v4 · Expo Router
-**Repo:** [link here] · **Demo:** [link here]
 
-### 🎨 RebelCanvas
+### 🎨 RebelCanvas `In Progress`
 A print-on-demand custom apparel platform with an in-browser design editor — front/back canvas tracking, template save/load, high-resolution print export, and tier-based pricing by design size.
 
 **Stack:** React · Fabric.js · Next.js · TypeScript · (React Native planned for mobile)
 **Payments:** eSewa · Khalti · Cash on delivery
-**Repo:** [link here] · **Demo:** [link here]
 
-### 🇳🇵 Karya Nepal
-A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolutio[...]
+### 🇳🇵 Karya Nepal `In Progress`
+A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution system. Co-founded and built with a small founding team.
 
 **Stack:** React · React Native · Supabase
-**Repo:** [link here]
+
+> Repos aren't public yet — links go up here as each one ships.
 
 ---
 
