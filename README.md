@@ -1,12 +1,12 @@
 # Hi, I'm mrblackhat0 👋
 
 <div align="center">
-  <img src="https://github.com/mrblackhat0/mrblackhat0/blob/main/developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+  <img src="https://raw.githubusercontent.com/mrblackhat0/mrblackhat0/main/developer.png" alt="mrblackhat0" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 </div>
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
 
-I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React.
+I turn ideas into working products — mobile apps, marketplaces, and tools — and learn by shipping, not just tutorials. Currently building a marketplace startup alongside app-side projects in React[...]
 
 Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, NativeWind, Drizzle ORM, SQLite, and Supabase**.
 
@@ -17,7 +17,7 @@ Currently working with **React Native, Expo, TypeScript, Next.js, Tailwind CSS, 
 ## 🚀 Featured Projects
 
 ### 🔥 RoutineKraft
-A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop).
+A dark-themed habit-tracking app with check-off, duration, and quantity habit types, a month-progress ring, and a live focus-session mode backed by foreground-service notifications (pause/resume/stop)[...]
 
 **Stack:** React Native · Expo · TypeScript · NativeWind · Drizzle ORM · SQLite
 **Repo:** [link here] · **Demo:** [link here]
@@ -36,7 +36,7 @@ A print-on-demand custom apparel platform with an in-browser design editor — f
 **Repo:** [link here] · **Demo:** [link here]
 
 ### 🇳🇵 Karya Nepal
-A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution system.
+A trust-first employment and local-services marketplace launching in Birgunj — subscription-based visibility, booking escrow, number masking, tiered vendor fees, and a two-tier dispute-resolution sy[...]
 
 **Stack:** React · React Native · Supabase
 **Repo:** [link here]
