@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./developer.png" alt="mrblackhat0" width="200" height="200"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/mrbalckhat0">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20MrBlackHat" alt="Hello! I&#39;m Rebel" />
   </a>
@@ -6,10 +10,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=I%20do%20coding%20for%20fun" alt="Typing headlines" />
-</p>
-
-<p align="center">
-  <img src="./developer.png" alt="mrblackhat0" width="200" height="200"/>
 </p>
 
 ### Founder • Full-Stack Developer • Building from Nepal 🇳🇵
